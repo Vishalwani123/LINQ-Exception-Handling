@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\LINQ\u0026Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA878733-722B-4DB2-AC4D-E096BEC74B92}|LINQ\u0026Exception\\LINQ\u0026Exception.csproj|c:\\users\\vishal\\source\\repos\\linq\u0026exception\\linq\u0026exception\\linqexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA878733-722B-4DB2-AC4D-E096BEC74B92}|LINQ\u0026Exception\\LINQ\u0026Exception.csproj|solutionrelative:linq\u0026exception\\linqexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA878733-722B-4DB2-AC4D-E096BEC74B92}|LINQ\u0026Exception\\LINQ\u0026Exception.csproj|c:\\users\\vishal\\source\\repos\\linq\u0026exception\\linq\u0026exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA878733-722B-4DB2-AC4D-E096BEC74B92}|LINQ\u0026Exception\\LINQ\u0026Exception.csproj|solutionrelative:linq\u0026exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqExp.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\LINQ\u0026Exception\\LINQ\u0026Exception\\LinqExp.cs",
+              "RelativeDocumentMoniker": "LINQ\u0026Exception\\LinqExp.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\LINQ\u0026Exception\\LINQ\u0026Exception\\LinqExp.cs",
+              "RelativeToolTip": "LINQ\u0026Exception\\LinqExp.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv1IAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:22:45.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\LINQ\u0026Exception\\LINQ\u0026Exception\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\u0026Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\LINQ\u0026Exception\\LINQ\u0026Exception\\Program.cs",
+              "RelativeToolTip": "LINQ\u0026Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:21:56.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

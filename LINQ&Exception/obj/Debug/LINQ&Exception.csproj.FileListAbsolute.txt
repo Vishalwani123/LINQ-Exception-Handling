@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\LINQ&Exception\LINQ&Exception\bin\Debug\LINQ&Exception.exe.config
+C:\Users\Vishal\source\repos\LINQ&Exception\LINQ&Exception\bin\Debug\LINQ&Exception.exe
+C:\Users\Vishal\source\repos\LINQ&Exception\LINQ&Exception\bin\Debug\LINQ&Exception.pdb
+C:\Users\Vishal\source\repos\LINQ&Exception\LINQ&Exception\obj\Debug\LINQ&Exception.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\LINQ&Exception\LINQ&Exception\obj\Debug\LINQ&Exception.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\LINQ&Exception\LINQ&Exception\obj\Debug\LINQ&Exception.exe
+C:\Users\Vishal\source\repos\LINQ&Exception\LINQ&Exception\obj\Debug\LINQ&Exception.pdb
